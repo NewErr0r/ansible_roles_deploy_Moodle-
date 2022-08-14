@@ -1,0 +1,7 @@
+---
+required_packages:
+  - graphviz 
+  - aspell 
+  - ghostscript 
+  - clamav 
+  - mlocate
